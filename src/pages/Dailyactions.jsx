@@ -18,7 +18,7 @@ import {
   DrawerHeader,
   DrawerTitle,
   DrawerTrigger,
-} from "../components/ui/drawer";
+} from "../Components/ui/drawer";
 import { useState, useEffect } from "react";
 import AddCus from "@/Components/AddCus";
 
